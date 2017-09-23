@@ -1,0 +1,4 @@
+Copy the accelarogram data in text format to dafualt folder
+Open main.m file
+Run the file
+Results will be saved in pdf format and a text format
