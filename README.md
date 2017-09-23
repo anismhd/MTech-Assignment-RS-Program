@@ -4,4 +4,5 @@ A MATLAB program for Response Spectram Generation. This program was written as p
 ## TEST RUN
 
 Input Accelarogram
+
 ![alt text](https://github.com/anismhd/MTech-Assignment-RS-Program/raw/master/InputAccl.png "Input Accelarogram")
